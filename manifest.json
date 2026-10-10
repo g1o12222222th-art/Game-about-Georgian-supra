@@ -1,13 +1,14 @@
 {
   "name": "სუფრა",
   "short_name": "Supra",
+  "description": "ქართული სუფრის თამაში",
   "start_url": "./index.html",
   "display": "standalone",
-  "background_color": "#ffffff",
+  "background_color": "#16130f",
   "theme_color": "#16130f",
   "icons": [
     {
-      "src": "https://g1o12222222th-art.github.io/Game-about-Georgian-supra/index.html",
+      "src": "image_5.png",
       "sizes": "512x512",
       "type": "image/png"
     }
