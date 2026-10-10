@@ -8,7 +8,7 @@
   "theme_color": "#16130f",
   "icons": [
     {
-      "src": "image_5.png",
+      "src": "https://pwa-builder-common.azureedge.net/icons/pwa-512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
